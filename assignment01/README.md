@@ -21,11 +21,11 @@ Data can be accessed from the provided zip files and extracted for usage or can 
 
 ## Usage
 
-Run the notebooks in the following order and save intermediate files to the current working directory: <br>
- 
-    1. data_preprocessing.ipynb <br>
-    2. cluster_analysis.ipynb <br>
-    3. cluster_evaluation_and_interpretation.ipynb
+Run the notebooks in the following order and save intermediate files to the current working directory:
+
+    1. ```data_preprocessing.ipynb```
+    2. ```cluster_analysis.ipynb```
+    3. ```cluster_evaluation_and_interpretation.ipynb```
 
 Notebooks should run sequentially cell by cell.
 
