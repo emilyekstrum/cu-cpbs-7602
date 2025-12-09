@@ -1,4 +1,4 @@
-# Assignment 2
+# Assignment 2: Linear predictors using gene expression
 
 Utilizes GTEx RNA seq data to fit multiple linear regression and logistic regression models to predict tissue type and sex.
 
