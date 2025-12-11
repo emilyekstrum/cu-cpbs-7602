@@ -1,19 +1,21 @@
 # Assignment 03 - Comparison of ensemble approaches on gene expression data
 
-Utilizes GTEx RNA seq data to compare ensemble models to predict age and tissue of origin for samples.
+Utilizes GTEx RNA seq data to compare ensemble models to predict age and tissue of origin for samples in latent space representations.
 
 ## Overview
 - Dimensionality reduction
     - PCA & UMAP
 
-- Ensemble model to predict tissue
+- Clustering
+    - spectral clustering
+
+- Ensemble model to predict tissue of origin
     - AdaBoost
     - Ridge classifier bagging ensemble
 
-- Ensemble model to predict age
+- Ensemble model to predict age (blood samples only)
     - Random forest
     - XGBoost
-    - blood samples only
 
 ## Environment set-up
 
