@@ -7,11 +7,12 @@ Utilizes GTEx RNA seq data to compare ensemble models to predict age and tissue 
     - PCA & UMAP
 
 - Ensemble model to predict tissue
-    - model 1 FINSIH
-    - model 2 FINISH
-    
+    - AdaBoost
+    - Ridge classifier bagging ensemble
+
 - Ensemble model to predict age
-    - model FINSIH
+    - Random forest
+    - XGBoost
     - blood samples only
 
 ## Environment set-up
